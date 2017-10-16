@@ -1,4 +1,4 @@
-# Atom Solidity Linter
+# Atom Solidity Linter: MOVED TO https://github.com/protofire/atom-solidity-linter
 
 This is integration of [solhint](https://github.com/tokenhouse/solhint) Solidity linter with Atom editor.
 
